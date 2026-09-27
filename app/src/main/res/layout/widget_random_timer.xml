@@ -1,0 +1,15 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#20252C"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <Button
+        android:id="@+id/random_timer_start"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Random\nSTART"
+        android:textSize="18sp" />
+</LinearLayout>
